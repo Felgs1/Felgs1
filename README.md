@@ -1,4 +1,4 @@
-Olá! Eu sou o <strong>h2>Felipe Gomes Bulhões<strong>
+Olá! Eu sou o <strong>Felipe Gomes Bulhões<strong>
 
 <p align="center">Eu ❤️ resolver problemas relacionados a tecnologia. <br><br> Atualmente eu sou um estudante de T.I desde o ano de 2022. O meu foco é em desenvolvimento Front-End Web usando as tecnologias da área como: HTML5 / CSS3 / JavaScript / React, Eu sou <strong>apaixonado por conhecimento e por novas resoluções de problemas</strong> e eu uso isso para criar ótimas soluções. Today, Eu atualmente me considero um <strong>Desenvolvedor Web Front-end</strong> com noções de back end focadas no desenvolvimento web.</p>&nbsp;
 
